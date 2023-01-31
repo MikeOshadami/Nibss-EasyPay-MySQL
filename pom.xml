@@ -9,7 +9,7 @@
     <artifactId>nibss-easy-pay</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>Nibss Easy Pay</name>
+    <name>Nibss Easy Pay Service</name>
     <description>Description for NibssEasyPay</description>
 
     <repositories>
